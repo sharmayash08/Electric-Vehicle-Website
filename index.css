@@ -1,0 +1,986 @@
+.group-23-1 {
+  position: relative;
+  width: 135px;
+  height: 47px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.home {
+  position: relative;
+  font-weight: 500;
+  color: var(--base-black);
+}
+.vehicles {
+  cursor: pointer;
+}
+.compare,
+.vehicles {
+  position: relative;
+}
+.nav-links {
+  width: 520px;
+  height: 28px;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-11xl);
+}
+.loginregister {
+  flex: 1;
+  position: relative;
+}
+.loginregister-wrapper,
+.navbar {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.loginregister-wrapper {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-tomato);
+  width: 220px;
+  flex-shrink: 0;
+  padding: var(--padding-3xs) var(--padding-11xl);
+  box-sizing: border-box;
+  justify-content: center;
+  color: var(--color-white);
+}
+.navbar {
+  justify-content: flex-start;
+  gap: 203px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-200);
+}
+.drive-green-drive {
+  margin-block-start: 0;
+  margin-block-end: 4px;
+  font-weight: 300;
+}
+.drive-an-electric-vehicle {
+  margin: 0;
+  font-size: 54px;
+}
+.drive-green-drive-container {
+  position: absolute;
+  top: 70px;
+  left: 4px;
+  display: flex;
+  align-items: center;
+  width: 644px;
+  height: 179px;
+  font-size: 39px;
+}
+.green-initiatives-new-1-icon {
+  position: relative;
+  width: 46px;
+  height: 49.83px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.green-initiative {
+  position: relative;
+  font-weight: 600;
+}
+.green-initiatives-new-1-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 285px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 33px;
+}
+.price1 {
+  position: relative;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  width: 140px;
+  flex-shrink: 0;
+}
+.component-1variant2 {
+  position: absolute;
+  top: 258px;
+  left: 0;
+  width: 140px;
+  height: 37.5px;
+  display: flex;
+  flex-direction: row;
+  padding: 0 0 0.5px;
+  box-sizing: border-box;
+  align-items: flex-end;
+  justify-content: flex-end;
+  color: var(--color-tomato);
+}
+.brand {
+  position: absolute;
+  top: 258px;
+  left: 140px;
+  font-weight: 600;
+}
+.search-btn {
+  position: absolute;
+  top: 8px;
+  left: 431px;
+  border-radius: var(--br-smi);
+  background-color: var(--color-tomato);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs) 40px;
+  align-items: center;
+  justify-content: center;
+}
+.select-budget {
+  position: absolute;
+  top: 18px;
+  left: 46px;
+  font-weight: 600;
+  color: rgba(36, 39, 44, 0.7);
+  text-align: left;
+}
+.down-filled-triangular-arrow {
+  position: absolute;
+  top: 19px;
+  left: 357px;
+  width: 27px;
+  height: 27px;
+  object-fit: cover;
+}
+.search-bar {
+  position: absolute;
+  top: 341px;
+  left: 0;
+  border-radius: var(--br-smi);
+  background-color: var(--color-white);
+  box-shadow: 0 13px 34px rgba(0, 0, 0, 0.25);
+  width: 596px;
+  height: 64px;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+}
+.electric-car-pana-1-1,
+.hero-section-content {
+  flex: 1;
+  position: relative;
+  height: 405px;
+}
+.electric-car-pana-1-1 {
+  max-width: 100%;
+  overflow: hidden;
+  height: 469px;
+  margin-left: -38px;
+}
+.hero-section {
+  width: 1313.5px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+}
+.ev-charging-stations-1-icon {
+  position: relative;
+  width: 27.88px;
+  height: 29.27px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.charging-station,
+.electric-cars {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+.charging-station {
+  width: 232.82px;
+  height: 29.27px;
+  flex-shrink: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: 11px;
+}
+.electric-cars {
+  width: 177.01px;
+}
+.electric-cars,
+.news-updates1,
+.videos {
+  height: 29.27px;
+  flex-shrink: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+}
+.videos {
+  width: 115.01px;
+  display: flex;
+  align-items: center;
+}
+.news-updates1 {
+  width: 195.01px;
+  cursor: pointer;
+}
+.cont-sec,
+.news-updates1,
+.this-could-be {
+  display: flex;
+  align-items: center;
+}
+.cont-sec {
+  width: 1111.88px;
+  height: 29.27px;
+  flex-shrink: 0;
+  flex-direction: row;
+  padding: 0 152px;
+  box-sizing: border-box;
+  justify-content: flex-start;
+  gap: var(--gap-21xl);
+  font-size: 23.89px;
+}
+.this-could-be {
+  position: relative;
+  width: 253px;
+}
+.this-could-be-marutis-first-e-wrapper {
+  padding: var(--padding-lg) 0;
+  background-image: url(./public/frame-4@3x.png);
+}
+.citroen-ec3-bookings-to-open-s-wrapper,
+.hyundai-ioniq-5-price-announce-wrapper,
+.sierra-ev-concept-now-looks-mo-wrapper,
+.this-could-be-marutis-first-e-wrapper {
+  border-radius: var(--br-7xl);
+  width: 255px;
+  height: 345px;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  align-items: flex-end;
+  justify-content: flex-end;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.hyundai-ioniq-5-price-announce-wrapper {
+  padding: var(--padding-lg) 0;
+  background-image: url(./public/frame-5@3x.png);
+}
+.citroen-ec3-bookings-to-open-s-wrapper,
+.sierra-ev-concept-now-looks-mo-wrapper {
+  padding: 23px 0;
+  background-image: url(./public/frame-6@3x.png);
+}
+.citroen-ec3-bookings-to-open-s-wrapper {
+  padding: 28px 0;
+  background-image: url(./public/frame-7@3x.png);
+}
+.frame-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-7xl);
+  width: 255px;
+  height: 345px;
+  object-fit: cover;
+}
+.things-to-know {
+  position: absolute;
+  top: 276px;
+  left: 7px;
+  display: flex;
+  align-items: center;
+  width: 253px;
+}
+.rectangle-group {
+  position: relative;
+  width: 260px;
+  height: 345px;
+  flex-shrink: 0;
+}
+.frame-group {
+  overflow-x: auto;
+  display: flex;
+  flex-direction: row;
+  padding: 0 var(--padding-xl);
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 41px;
+}
+.whats-trending-section,
+.whats-trending-section-inner {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.whats-trending-section-inner {
+  width: 1369px;
+  overflow-x: auto;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+}
+.whats-trending-section {
+  gap: 38px;
+}
+.electric-cars2 {
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  width: 351px;
+  height: 136px;
+  flex-shrink: 0;
+}
+.frame-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  width: 409px;
+  height: 293px;
+  object-fit: cover;
+}
+.check-february-offer,
+.rs6095-6595 {
+  position: absolute;
+  top: 386px;
+  left: 0;
+}
+.check-february-offer {
+  top: 460px;
+  color: var(--color-tomato);
+}
+.rectangle-container {
+  cursor: pointer;
+}
+.rectangle-container,
+.rectangle-parent1 {
+  position: relative;
+  width: 409px;
+  height: 488px;
+  flex-shrink: 0;
+}
+.tata-tigor-ev {
+  position: absolute;
+  top: 339px;
+  left: 0;
+  text-align: center;
+}
+.frame-container {
+  width: 1381px;
+  overflow-x: auto;
+  display: flex;
+  flex-direction: row;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-11xl);
+}
+.electric-car-section-inner {
+  width: 1381px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--base-black);
+}
+.electric-car-section {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 82px;
+}
+.ev-why-new-1-icon {
+  position: relative;
+  width: 527.25px;
+  height: 708px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.the-concerns-regarding,
+.why-the-automotive {
+  position: absolute;
+  left: 2.02px;
+  display: flex;
+  align-items: center;
+}
+.why-the-automotive {
+  top: 0;
+  font-size: 46px;
+  font-weight: 800;
+  width: 977.98px;
+}
+.the-concerns-regarding {
+  top: 73px;
+  letter-spacing: 0.01em;
+  line-height: 128.69%;
+  color: rgba(36, 39, 44, 0.45);
+  width: 859.01px;
+}
+.feature-low-running-costs-1-icon,
+.feature-performance-exp-1-icon {
+  position: absolute;
+  top: 222px;
+  left: 0;
+  width: 60.49px;
+  height: 58.87px;
+  overflow: hidden;
+}
+.feature-performance-exp-1-icon {
+  top: 324.87px;
+}
+.feature-convenient-charging-1-icon,
+.feature-eco-friendly-1-icon,
+.feature-technology-1-icon {
+  position: absolute;
+  top: 427.74px;
+  left: 0;
+  width: 60.49px;
+  height: 58.87px;
+  overflow: hidden;
+}
+.feature-convenient-charging-1-icon,
+.feature-eco-friendly-1-icon {
+  top: 530.6px;
+}
+.feature-convenient-charging-1-icon {
+  top: 633.47px;
+}
+.convenient-charging,
+.eco-friendly,
+.lower-running-costs,
+.performance-and-driving,
+.technology {
+  position: absolute;
+  top: 235px;
+  left: 125.02px;
+  letter-spacing: 0.01em;
+  line-height: 128.69%;
+  display: flex;
+  align-items: center;
+  width: 225.84px;
+}
+.convenient-charging,
+.eco-friendly,
+.performance-and-driving,
+.technology {
+  top: 335px;
+  left: 120.99px;
+  width: 392.2px;
+}
+.convenient-charging,
+.eco-friendly,
+.technology {
+  top: 436px;
+  width: 124.01px;
+}
+.convenient-charging,
+.eco-friendly {
+  top: 548px;
+  left: 125.02px;
+  width: 134.09px;
+}
+.convenient-charging {
+  top: 651px;
+  width: 222.82px;
+}
+.why-the-automotive-future-is-e-parent {
+  position: relative;
+  width: 980px;
+  height: 692.34px;
+  flex-shrink: 0;
+}
+.advantage-section {
+  width: 1520px;
+  height: 708px;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+  text-align: left;
+  font-size: var(--font-size-4xl);
+}
+.frame-child4,
+.news-updates3 {
+  position: relative;
+  flex-shrink: 0;
+}
+.news-updates3 {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  width: 459px;
+  height: 142px;
+}
+.frame-child4 {
+  border-radius: var(--br-mini);
+  width: 409px;
+  height: 293px;
+  object-fit: cover;
+}
+.citroen-unleashes-ev {
+  position: relative;
+  display: flex;
+  align-items: center;
+  width: 409px;
+}
+.rectangle-parent5 {
+  cursor: pointer;
+}
+.rectangle-parent5,
+.rectangle-parent6 {
+  width: 409px;
+  height: 383px;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-15xl);
+}
+.frame-parent1,
+.news-update-section {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent1 {
+  width: 1380px;
+  overflow-x: auto;
+  flex-direction: row;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  gap: var(--gap-11xl);
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--base-black);
+}
+.news-update-section {
+  flex-direction: column;
+  gap: 43px;
+}
+.electric-vehicle-charging4 {
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+  width: 1060px;
+  height: 142px;
+  flex-shrink: 0;
+}
+.group-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 17.37px;
+  background-color: var(--color-white);
+  box-shadow: 0 4.632603168487549px 93.81px rgba(0, 0, 0, 0.25);
+  width: 141.29px;
+  height: 192.25px;
+}
+.hyderabad-1-icon {
+  position: absolute;
+  top: 37.06px;
+  left: 30.11px;
+  width: 81.07px;
+  height: 81.07px;
+  overflow: hidden;
+}
+.hyderabad {
+  position: absolute;
+  top: 145.93px;
+  left: 25.48px;
+}
+.group-div {
+  position: relative;
+  width: 141.29px;
+  height: 192.25px;
+  flex-shrink: 0;
+  cursor: pointer;
+}
+.jaipur {
+  position: absolute;
+  top: 145.93px;
+  left: 44.01px;
+}
+.rectangle-parent10 {
+  position: relative;
+  width: 141.29px;
+  height: 192.25px;
+  flex-shrink: 0;
+}
+.chandigarh,
+.new-delhi,
+.patna {
+  position: absolute;
+  top: 145.93px;
+  left: 46.33px;
+}
+.chandigarh,
+.new-delhi {
+  left: 23.16px;
+}
+.new-delhi {
+  left: 28.95px;
+}
+.group-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 61px;
+  font-size: 18.53px;
+}
+.group-child2 {
+  position: absolute;
+  top: -23px;
+  left: -28px;
+  border-radius: var(--br-mini);
+  width: 1335px;
+  height: 536px;
+  object-fit: cover;
+}
+.enter-location-input-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 26.25px;
+  background-color: var(--color-white);
+  box-shadow: 0 4.999999523162842px 31.25px rgba(0, 0, 0, 0.25);
+  width: 622.5px;
+  height: 265px;
+}
+.search-electric-charging {
+  position: absolute;
+  top: 68.75px;
+  left: 67.5px;
+  display: flex;
+  align-items: flex-end;
+  width: 513.75px;
+}
+.enter-location-input-item {
+  position: absolute;
+  top: 126px;
+  left: 67.5px;
+  border-radius: 12.5px;
+  background-color: #e4e4e4;
+  width: 490px;
+  height: 70px;
+}
+.placeholder-icon {
+  position: absolute;
+  top: 152.5px;
+  left: 88.75px;
+  width: 18.75px;
+  height: 18.75px;
+  object-fit: cover;
+}
+.enter-your-city {
+  position: absolute;
+  top: 148.75px;
+  left: 121.25px;
+  font-size: 22.5px;
+  font-weight: 500;
+  color: var(--color-gray-300);
+}
+.dropdown-btn-icon {
+  position: absolute;
+  top: 154px;
+  left: 508.58px;
+  width: 15px;
+  height: 15px;
+  object-fit: cover;
+}
+.enter-location-input {
+  position: absolute;
+  top: 108px;
+  left: 68px;
+  width: 622.5px;
+  height: 265px;
+}
+.rectangle-parent14 {
+  position: relative;
+  width: 1279px;
+  height: 480px;
+  flex-shrink: 0;
+  font-size: 31.25px;
+}
+.charging-station-section {
+  height: 1045px;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  padding: 0 0 var(--padding-11xl);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 83px;
+  text-align: left;
+}
+.ev-hub-txt-container {
+  line-break: anywhere;
+  width: 100%;
+}
+.ev-hub {
+  position: relative;
+  line-height: 18px;
+  display: flex;
+  align-items: center;
+  width: 133px;
+  height: 40px;
+  flex-shrink: 0;
+}
+.text {
+  position: absolute;
+  top: calc(50% - 57.5px);
+  left: 60px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.iconsgoogle-plus {
+  position: relative;
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.socials {
+  position: absolute;
+  top: calc(50% + 21.5px);
+  right: 1px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-11xl);
+}
+.contacts,
+.div5 {
+  position: relative;
+}
+.contacts {
+  line-height: 20px;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.div5 {
+  font-size: var(--regular-16-size);
+  line-height: 24px;
+  font-family: var(--font-raleway);
+  color: #f5f5f5;
+  opacity: 0.3;
+}
+.links2 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-21xl);
+}
+.sign-in {
+  position: relative;
+  line-height: 20px;
+  text-transform: uppercase;
+  font-weight: 600;
+  color: #2fbda2;
+}
+.button-straight-outline {
+  border: 2px solid var(--color-lightseagreen);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: 8px var(--padding-base);
+  align-items: center;
+  justify-content: flex-start;
+  color: var(--color-lightseagreen);
+}
+.links,
+.links1 {
+  position: absolute;
+}
+.links1 {
+  top: calc(50% - 51.5px);
+  right: 0;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-21xl);
+}
+.links {
+  top: calc(50% - 57.5px);
+  right: 586px;
+  width: 843px;
+  height: 103px;
+  font-size: var(--font-size-xl);
+}
+.footer-10 {
+  position: relative;
+  background-color: var(--general-dark-3);
+  width: 1925px;
+  height: 235px;
+  flex-shrink: 0;
+}
+.comps,
+.home-page {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  justify-content: flex-start;
+}
+.comps {
+  border-radius: var(--br-mini) var(--br-mini) 0 0;
+  background-color: var(--text-color);
+  border: 1px solid var(--general-dark-30);
+  width: 1442px;
+  align-items: flex-start;
+  text-align: left;
+  font-size: 36px;
+  color: var(--color-white);
+}
+.home-page {
+  position: relative;
+  background-color: #f7f8fb;
+  width: 100%;
+  padding: 47px 0 0;
+  align-items: center;
+  gap: 65px;
+  text-align: center;
+  font-size: var(--font-size-37xl);
+  color: var(--text-color);
+  font-family: var(--font-roboto);
+}
+.side-img-icon {
+  position: relative;
+  border-radius: var(--br-xl-1);
+  width: 341.77px;
+  height: 683.54px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.login-or-register {
+  align-self: stretch;
+  position: relative;
+  font-size: 32.17px;
+  font-weight: 600;
+}
+.for-better-experience {
+  position: relative;
+  font-size: 18.76px;
+  font-weight: 300;
+  display: inline-block;
+  width: 439.61px;
+}
+.input-field-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl-1);
+  background-color: rgba(217, 217, 217, 0.5);
+  width: 439.61px;
+  height: 77.74px;
+}
+.enter-mobile-number {
+  position: absolute;
+  top: 24.13px;
+  left: 22.78px;
+}
+.input-field,
+.otp-btn-child {
+  width: 439.61px;
+  height: 77.74px;
+}
+.input-field {
+  position: relative;
+  flex-shrink: 0;
+  color: var(--color-gray-300);
+}
+.otp-btn-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl-1);
+  background-color: #b6b6b6;
+}
+.send-otp {
+  position: absolute;
+  top: 25.47px;
+  left: 166.19px;
+  font-weight: 500;
+}
+.otp-btn {
+  position: relative;
+  width: 439.61px;
+  height: 77.74px;
+  flex-shrink: 0;
+  color: var(--color-white);
+}
+.privacy-policy {
+  text-decoration: underline;
+}
+.by-continuing-i-container {
+  position: relative;
+  font-size: 14.74px;
+  display: inline-block;
+  width: 427.55px;
+}
+.login-details,
+.side-img-parent {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.login-details {
+  flex-direction: column;
+  padding: 8.041667938232422px 0;
+  gap: 28.15px;
+}
+.side-img-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  flex-direction: row;
+  gap: 97px;
+}
+.cross-btn-icon {
+  position: absolute;
+  top: 36.86px;
+  left: 914.07px;
+  width: 22.78px;
+  height: 22.11px;
+  cursor: pointer;
+}
+.login-pop-up {
+  position: relative;
+  border-radius: var(--br-xl-1);
+  background-color: var(--color-white);
+  width: 965px;
+  height: 683.54px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: left;
+  font-size: 24.13px;
+  color: var(--text-color);
+  font-family: var(--font-roboto);
+}

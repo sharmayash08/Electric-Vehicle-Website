@@ -1,0 +1,93 @@
+.electric-charging-stations {
+  position: relative;
+}
+.location {
+  margin: 0;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-500);
+}
+.blank-line {
+  margin: 0;
+}
+.contact {
+  margin: 0;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-400);
+}
+.charging-slots {
+  margin: 0;
+  color: var(--color-gray-500);
+}
+.location-hyderguda-road-container {
+  position: relative;
+  font-size: var(--font-size-lg);
+}
+.electric-charging-stations-in-parent,
+.electric-vehicle-charging-stat-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.electric-vehicle-charging-stat-parent {
+  border-radius: var(--br-3xs);
+  border: 1px solid var(--color-gray-100);
+  overflow: hidden;
+  padding: var(--padding-smi) var(--padding-xl);
+  gap: var(--gap-6xs);
+  font-size: var(--font-size-xl);
+}
+.electric-charging-stations-in-parent {
+  position: absolute;
+  top: 33px;
+  left: 112px;
+  gap: 56px;
+  font-size: var(--font-size-5xl);
+}
+.electric-vehicle-charging-stat-container,
+.electric-vehicle-charging-stat-group,
+.frame-div {
+  position: absolute;
+  top: 502px;
+  left: 112px;
+  border-radius: var(--br-3xs);
+  border: 1px solid var(--color-gray-100);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-smi) var(--padding-xl);
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-6xs);
+}
+.electric-vehicle-charging-stat-container,
+.frame-div {
+  top: 119px;
+  left: 766px;
+}
+.frame-div {
+  top: 502px;
+}
+.frame-parent {
+  position: relative;
+  background-color: var(--color-white);
+  width: 1260px;
+  height: 989px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.charging-city {
+  position: relative;
+  background-color: var(--color);
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-33xl) 60px var(--padding-33xl) 63px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--base-black);
+  font-family: var(--regular-13);
+}

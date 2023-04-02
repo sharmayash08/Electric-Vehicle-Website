@@ -1,0 +1,77 @@
+.what-does-having {
+  position: relative;
+}
+.ansh {
+  color: inherit;
+}
+.published-on-apr-container {
+  position: relative;
+  font-size: var(--regular-16-size);
+  color: var(--font-inherit);
+}
+.frame-child {
+  position: relative;
+  border-radius: var(--br-mini);
+  background-color: #ff9478;
+  width: 9px;
+  height: 113px;
+  flex-shrink: 0;
+}
+.earlier-this-year {
+  margin: 0;
+}
+.earlier-this-year-container1 {
+  line-break: anywhere;
+  width: 100%;
+}
+.earlier-this-year-container {
+  position: relative;
+  display: flex;
+  align-items: center;
+  width: 699px;
+  height: 113px;
+  flex-shrink: 0;
+}
+.rectangle-parent {
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-base) 0 0;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 18px;
+}
+.news-updates-child {
+  position: relative;
+  border-radius: var(--br-3xs);
+  width: 739px;
+  height: 612px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.reasons-why-recycling {
+  text-decoration: underline;
+}
+.almost-every-story-container,
+.news-updates {
+  position: relative;
+  font-size: var(--font-size-xl);
+  display: flex;
+  color: var(--font-inherit);
+  align-items: center;
+  width: 739px;
+}
+.news-updates {
+  background-color: var(--color);
+  width: 100%;
+  flex-direction: column;
+  padding: var(--padding-33xl) var(--padding-107xl) var(--padding-33xl)
+    var(--padding-264xl);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--base-black);
+  font-family: var(--regular-13);
+}
